@@ -1,0 +1,45 @@
+{
+  "id": 9618030294,
+  "title": "New Squeeze cheese",
+  "price": {
+    "amount": "11.0",
+    "currency_code": "USD"
+  },
+  "is_visible": true,
+  "brand_title": "Squishy",
+  "path": "/items/9618030294-new-squeeze-cheese",
+  "user": {
+    "id": 3164248482,
+    "login": "aldunc0622",
+    "profile_url": "https://www.vinted.com/member/3164248482-aldunc0622",
+    "business": false
+  },
+  "conversion": null,
+  "url": "https://www.vinted.com/items/9618030294-new-squeeze-cheese",
+  "promoted": false,
+  "photo": {
+    "id": 40696711988,
+    "image_no": 1,
+    "url": "https://images1.vinted.net/t/01_00e37_AE7AraLivwSTSifd7yihvYzW/f800/1786291804.jpeg",
+    "is_main": true,
+    "high_resolution": {
+      "id": "01_00e37_AE7AraLivwSTSifd7yihvYzW",
+      "timestamp": 1786291804,
+      "orientation": null
+    }
+  },
+  "favourite_count": 0,
+  "is_favourite": false,
+  "service_fee": {
+    "amount": "1.25",
+    "currency_code": "USD"
+  },
+  "total_item_price": {
+    "amount": "12.25",
+    "currency_code": "USD"
+  },
+  "view_count": 0,
+  "size_title": "One size",
+  "content_source": "catalog",
+  "status": "New with tags"
+}

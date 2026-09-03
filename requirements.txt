@@ -1,0 +1,7 @@
+aiogram==3.30.0
+curl_cffi==0.16.0
+SQLAlchemy[asyncio]==2.0.51
+psycopg[binary,pool]==3.3.4
+alembic==1.19.1
+pydantic-settings==2.15.0
+structlog==26.1.0
